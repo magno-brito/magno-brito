@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Magno Leal
-- 👀 I’m interested in Python, Java, SQL and Back End
-- 🌱 I’m currently learning Python and Java programming languages
-- 💞️ I’m looking to collaborate on different projects to learn as much as I can
-- 📫 How to reach me ...
+### Hi 😎
+ Thank you to visit my GitHub profile.
+ 
+ I study information systems and I am insterested in Python, Java and Backend.  
+ 
+ My side projects, resources for the courses I develop, and thoughts on numerous things that interest me may all be found here.
+
 
 <!---
 Radaghast-teh-brown/Radaghast-teh-brown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
