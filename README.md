@@ -1,6 +1,6 @@
 # Magno Brito 
 
-I'm a curious guy who's insteresting in back-end development. I hava a degree in physics and studying computer science. 
+I'm a curious guy who's insteresting in back-end development. I have a degree in physics and studying computer science. 
 
  ---
 
